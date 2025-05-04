@@ -1,19 +1,11 @@
 # Counter Project
 
-This is a simple JavaScript counter project that allows users to increment, decrement, or reset a number on the screen.
+A simple counter built with HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 
-You can try the project live here: [Live Site](https://maimunabdi.github.io/counter-2/)
+You can see it live here: [Counter Project](https://maimunabdi.github.io/counter-2/)
 
-## 🛠️ Built With
+## 📁 Folder
 
-- HTML
-- CSS
-- JavaScript
-
-## 📂 Project Features
-
-- Increase and decrease the count
-- Reset button
-- Clean and responsive design
+The website is published from the `docs` folder.
